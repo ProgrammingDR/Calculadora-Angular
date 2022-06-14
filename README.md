@@ -1,5 +1,7 @@
 # CalculadoraApp
 
+[![Portafolio-5.png](https://i.postimg.cc/MTZStjKj/Portafolio-5.png)](https://postimg.cc/Y4PZC0Fp)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
